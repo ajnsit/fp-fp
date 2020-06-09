@@ -12,3 +12,9 @@ A collection of FP (mostly Haskell and Purescript) insights across all experienc
 
 1. Learn how to [Contribute](Contribute.md).
 2. Start reading from our [Generic Profile Hub](Profile/Generic/Hub.md).
+
+## Potential Future Ideas
+
+1. Data Analytics - Use graph algorithms, clustering etc. to automatically derive optimum learning-paths. Generate topics and tags.
+2. Personalisation - Track user progress through learning paths.
+3. Web editing - Provide a web editing interface.
